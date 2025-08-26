@@ -20,3 +20,4 @@ false
 # variables - containers for data
 school name = "boys latin
 phone = "2155942832"
+#syntax - 
