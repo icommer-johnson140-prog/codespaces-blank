@@ -26,13 +26,18 @@ print('what time is it?')
 #input() function - this is a built in function that allows users to
 # type data into a program and assign it to a variable. The newly
 #inputted data will always be treated as a string
-3 INSTRUCTIONS:
+3 #INSTRUCTIONS:
 #choose the correct data casting function to fix the following questions 
 
 #problem 1
-Name = input ('what is your name')
-Age = input ('what is your age')
+Name = input ("what is your name") string
+Age = input ('what is your age') string
 
 # problem 2 
 Value = true
-print(true = value)
+print(true = bool(value) 
+
+# problem 3 
+Bonus + '200'
+
+print (300 + int(200)
