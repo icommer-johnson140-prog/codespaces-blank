@@ -63,5 +63,5 @@ y = 20.
 
 "1. input- allows us to change decimals into whole number, float allows us to change whole numbers decimal, intergers - number values that can only be whole numbers  "
 
-" 7. A function is a block of code which only runs when it is called, And a function inovacation is a  "
+" 7. A function is a block of code which only runs when it is called, And a function inovacation is calling and using the function"
 
