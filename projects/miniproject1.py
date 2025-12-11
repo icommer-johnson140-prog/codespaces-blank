@@ -4,7 +4,7 @@ print("A. 16")
 print("B. 27")
 print("C. 18")
 print("d. 35")
-
+userAnswer = input()
 answer1 = input('user answer:')
 print(answer1)
 
@@ -12,7 +12,7 @@ correctAnswer_1 = 'B'
 
 if userAnswer_ == correctAnswer_1:
     print('correct')
-if userAnswer != correctAnswer_1:
+else:
     print('incorrect')
 
 
@@ -24,7 +24,7 @@ if userAnswer != correctAnswer_1:
 
 
 
-    print("what are BL school colors?")
+  #  print("what are BL school colors?")
 print("A. red and navy blue")
 print("B. maroon and grey")
 print("C. Navy blue and maroon")
@@ -72,8 +72,3 @@ if userAnswer != correctAnswer_1:
 
 
 
-if userAnswers = 'B,C,A'
-print("Congrats you earned a perfect score of 3/3")
-
-if userAnswer = 'D,C,A'
-print("you earned a score of 2/3")
