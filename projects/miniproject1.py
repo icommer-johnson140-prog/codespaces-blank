@@ -24,7 +24,7 @@ else:
 
 
 
-  #  print("what are BL school colors?")
+    print("what are BL school colors?")
 print("A. red and navy blue")
 print("B. maroon and grey")
 print("C. Navy blue and maroon")
